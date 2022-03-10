@@ -1,0 +1,12 @@
+.dashboard-style {
+  position: relative;
+  text-align: center;
+  height: calc(100vh - 120px);
+  .footer-div {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+}
